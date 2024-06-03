@@ -68,7 +68,7 @@
             <p>For all your transportation needs and inquiries, please don't hesitate to reach out.</p>
         </div>
         <div class="fleet-image">
-            <img src=""C:\Users\piyush sharma\Documents\brbl.webp"" alt=""C:\Users\piyush sharma\Documents\brbl.webp"">
+            <img src="C:\Users\piyush sharma\Documents\whatsapp-image-2022-12-13-at-10-36-22-250x250.jpg" alt=""C:\Users\piyush sharma\Documents\brbl.webp"">
             <img src="truck2.jpg" alt="Truck Image 2">
         </div>
     </div>
