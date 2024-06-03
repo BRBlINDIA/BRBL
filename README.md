@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<img src="C:\Users\piyush sharma\Documents\whatsapp-image-2022-12-13-at-10-36-22-250x250.jpg" alt="Tanker">
+<img src="C:\Users\piyush sharma\Documents\image.html.jpg" alt="Tanker">
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
